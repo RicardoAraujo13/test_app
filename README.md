@@ -10,13 +10,15 @@ All instructions required to build and execute the hook. If any other library or
   8) Execute the Frida script: `frida -U -f com.ds.testapp -l hook-textview.js`
        
 
-Specific Frida version used.\n
-  frida-server-16.6.6-android-x86.xz
+Specific Frida version used.
+
+  `frida-server-16.6.6-android-x86.xz`
 
 
 Which emulator was used and which Android version.
-  Genymotion v3.8.0
-  Android 9 api 28
+
+  `Genymotion v3.8.0`
+  `Android 9 api 28`
 
 
 A screenshot of the app displaying the required text.
