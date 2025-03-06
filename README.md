@@ -10,7 +10,7 @@ All instructions required to build and execute the hook. If any other library or
   8) Execute the Frida script: `frida -U -f com.ds.testapp -l hook-textview.js`
        
 
-Specific Frida version used.
+Specific Frida version used.\n
   frida-server-16.6.6-android-x86.xz
 
 
